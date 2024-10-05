@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "estate_title": "Oceanfront Villa",
+      "segment_name": "Luxury",
+      "description": "This breathtaking oceanfront villa is a true masterpiece of luxury living. Situated on a private beach in Malibu, California, this property offers stunning, unobstructed views of the Pacific Ocean. The villa boasts a sprawling 10,000 sq ft of living space, designed to maximize comfort and elegance. The grand living room features floor-to-ceiling windows that open up to the vast blue horizon, filling the space with natural light and the soothing sound of waves. The estate includes a state-of-the-art gourmet kitchen, equipped with top-of-the-line appliances, perfect for hosting lavish dinner parties. The outdoor area is equally impressive, with a private beach, infinity pool, and multiple terraces that allow for seamless indoor-outdoor living. The villa also features a luxurious home theater, providing the perfect spot for entertainment. This property is the epitome of tranquility and exclusivity, offering a serene retreat from the hustle and bustle of city life. Whether you are lounging by the pool or enjoying a sunset stroll on your private beach, this villa offers an unparalleled lifestyle of luxury and relaxation.",
+      "price": "$15,000,000",
+      "status": "sale",
+      "area": "10,000 sq ft",
+      "location": "Malibu, California",
+      "facilities": ["living room", "swimming pool", "Kitchen", "private beach", "home theater"],
+      "image": "../src/assets/nature-landscape-hawaii-with-digital-art-style.jpg"
+    },
+    {
+      "id": 2,
+      "estate_title": "Mountain Retreat",
+      "segment_name": "Luxury",
+      "description": "Nestled in the majestic mountains of Aspen, Colorado, this secluded mountain retreat offers the perfect blend of luxury and nature. Spanning 7,500 sq ft, this estate is designed to provide a peaceful and private sanctuary for those seeking an escape from the everyday. The home is crafted with natural materials, blending seamlessly with its surroundings, and features large windows that capture panoramic views of the mountains and forests. The interior is equally stunning, with a spacious living room that includes a cozy fireplace, perfect for chilly evenings. The gourmet kitchen is equipped with premium appliances and offers ample space for culinary creations. The retreat also includes a private spa, where you can unwind and relax after a day of exploring the great outdoors. A wine cellar provides the perfect place to store and enjoy your favorite vintages. Whether you're watching the snowfall from the comfort of your living room or hiking the nearby trails, this mountain retreat offers a luxurious, serene lifestyle in one of the most beautiful locations in the world.",
+      "price": "$8,500,000",
+      "status": "sale",
+      "area": "7,500 sq ft",
+      "location": "Aspen, Colorado",
+      "facilities": ["living room", "fireplace", "spa", "wine cellar", "gourmet kitchen"],
+      "image": "../src/assets/luxury-house-hibiscus-island-downtown-miami-florida.jpg"
+    },
+    {
+      "id": 3,
+      "estate_title": "Penthouse in the Sky",
+      "segment_name": "Luxury",
+      "description": "Experience the pinnacle of urban luxury in this exclusive penthouse, perched high above the bustling streets of New York City. With 6,500 sq ft of sophisticated living space, this penthouse offers breathtaking, unobstructed views of the iconic city skyline through its floor-to-ceiling windows. Every detail of this residence has been meticulously crafted to provide an unparalleled living experience. The grand living room is perfect for entertaining guests, with an open floor plan that seamlessly connects to a state-of-the-art gourmet kitchen, outfitted with the finest appliances and finishes. The private elevator ensures that you can access your home with ease and exclusivity. One of the standout features of this penthouse is the rooftop terrace, where you can enjoy panoramic views of the city, day or night. Whether you're hosting a cocktail party or simply relaxing with a book, this outdoor space is the perfect urban oasis. The penthouse also includes a luxurious home office, allowing you to work from home in style. With its prime location, world-class amenities, and stunning views, this penthouse truly offers the ultimate in luxury city living.",
+      "price": "$20,000,000",
+      "status": "sale",
+      "area": "6,500 sq ft",
+      "location": "New York City, New York",
+      "facilities": ["living room", "private elevator", "rooftop terrace", "gourmet kitchen", "home office"],
+      "image": "../src/assets/empire-state-building-seen-from-apartment (1).jpg"
+    },
+    {
+      "id": 4,
+      "estate_title": "Tropical Island Mansion",
+      "segment_name": "Luxury",
+      "description": "This tropical island mansion is the ultimate dream home for those seeking unparalleled luxury in a paradise setting. Located in the heart of the Bahamas, this private island estate spans an impressive 15,000 sq ft and is surrounded by crystal-clear waters and lush greenery. The mansion is designed to offer the finest in luxury living, with expansive indoor and outdoor spaces that provide the perfect backdrop for relaxation and entertainment. The grand living room features high ceilings and large windows that frame stunning views of the ocean. The gourmet kitchen is equipped with the latest appliances and offers ample space for preparing meals for family and guests. The outdoor area is equally spectacular, with a private beach, infinity pool, and multiple terraces that offer breathtaking views of the island and beyond. The estate also includes a guest house, providing additional space for visitors. Whether you're lounging by the pool, taking a stroll along your private beach, or hosting a dinner party under the stars, this tropical island mansion offers a lifestyle of luxury and tranquility that is second to none.",
+      "price": "$50,000,000",
+      "status": "sale",
+      "area": "15,000 sq ft",
+      "location": "Bahamas",
+      "facilities": ["living room", "swimming pool", "private beach", "gourmet kitchen", "guest house"],
+      "image": "../src/assets/nature-landscape-hawaii-with-digital-art-style.jpg"
+    },
+    {
+      "id": 5,
+      "estate_title": "Countryside Chateau",
+      "segment_name": "Luxury",
+      "description": "Step back in time with this magnificent countryside chateau, located in the picturesque region of Provence, France. This grand estate spans 12,000 sq ft and is steeped in history and charm. The chateau has been meticulously restored to preserve its original architectural features, while also offering modern amenities that cater to today's luxury lifestyle. The expansive living room is adorned with antique furnishings and a grand fireplace, creating a warm and inviting atmosphere. The gourmet kitchen is a chef's dream, with state-of-the-art appliances and ample space for preparing gourmet meals. The chateau also features a wine cellar, where you can store and enjoy the finest vintages. The outdoor area is equally enchanting, with beautifully manicured gardens, a swimming pool, and numerous terraces where you can relax and take in the breathtaking views of the surrounding countryside. Whether you're hosting a lavish dinner party or enjoying a quiet evening by the fire, this countryside chateau offers a luxurious and tranquil lifestyle in one of the most beautiful regions of France.",
+      "price": "$12,000,000",
+      "status": "rent",
+      "area": "12,000 sq ft",
+      "location": "Provence, France",
+      "facilities": ["living room", "wine cellar", "library", "swimming pool", "gardens"],
+      "image": "../src/assets/view-imposing-castle-with-natural-landscape.jpg"
+    },
+    {
+      "id": 6,
+      "estate_title": "Modern Urban Loft",
+      "segment_name": "Luxury",
+      "description": "This modern urban loft, located in the heart of San Francisco, California, offers the perfect combination of contemporary design and luxurious living. Spanning 4,000 sq ft, this loft features an open floor plan with high ceilings and large windows that flood the space with natural light. The sleek, modern design is complemented by cutting-edge technology, including smart home features that allow you to control lighting, temperature, and security with ease. The gourmet kitchen is equipped with top-of-the-line appliances and offers plenty of space for preparing meals and entertaining guests. The loft also includes a private rooftop deck, where you can enjoy stunning views of the city skyline. Whether you're hosting a dinner party or simply relaxing with a glass of wine, this outdoor space is the perfect urban oasis. The loft also includes a gym, allowing you to stay fit without leaving the comfort of your home. With its prime location, stylish design, and modern amenities, this urban loft offers a luxurious lifestyle in one of the most vibrant cities in the world.",
+      "price": "$5,000,000",
+      "status": "sale",
+      "area": "4,000 sq ft",
+      "location": "San Francisco, California",
+      "facilities": ["living room", "rooftop deck", "smart home features", "gourmet kitchen", "gym"],
+      "image": "../src/assets/luxurious-villa-with-modern-architectural-design.jpg"
+    }
+  ]
