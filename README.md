@@ -1,8 +1,49 @@
-# React + Vite
+Elite Haven a luxurious real state company website. The website is built with react library of javascript . The most important thing is focused in this project is the Authentication method . For Authentication I used firebase.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+src/
+│
+├── assets/
+│
+├── firebase/
+│   └── firebase.config.js
+│
+├── layouts/
+│   └── Root.jsx
+│
+├── pages/
+│   ├── Home/
+│   │   ├── Banner.jsx
+│   │   ├── Estate.jsx
+│   │   ├── Home.jsx
+│   │   ├── Properties.jsx
+│   │   └── PropertyDetails.jsx
+│   │
+│   ├── Login/
+│   │   └── Login.jsx
+│   │
+│   ├── Profile/
+│   │   └── Profile.jsx
+│   │
+│   ├── Register/
+│   │   └── Register.jsx
+│
+├── shared/
+│   └── Footer/
+│       └── Footer.jsx
+│
+├── Navbar/
+│   ├── Navbar.jsx
+│   └── UpdateProfile.jsx
+│
+├── providers/
+│   └── AuthProvider.jsx
+│
+├── routes/
+│   ├── PrivateRoute.jsx
+│   └── Routes.jsx
+│
+├── App.css
+├── App.jsx
+├── index.css
+├── index.js
+└── main.jsx
